@@ -1312,6 +1312,7 @@ input:checked + .slider:before {
         <div>
             <div class="title">Alhagby TV</div>
             <div class="subtitle small">البث المباشر للقنوات العربية والرياضية</div>
+            <div class="subtitle small"> رابط التحميل https://www.appcreator24.com/app3769347-7n2g08</div>
         </div>
     </div>
     <div style="display:flex;gap:10px;align-items:center">
@@ -2329,7 +2330,8 @@ function loadSettings() {
     html += '</div>';
     
     html += '<div class="note" style="text-align:center;margin-top:20px">';
-    html += 'تطبيق Alhagby TV - جميع الحقوق محفوظة 2025';
+    html += تطبيق Alhagby TV - جميع الحقوق محفوظة 2025
+    رابط التحميل https://www.appcreator24.com/app3769347-7n2g08';
     html += '</div>';
     
     html += '</div>';
