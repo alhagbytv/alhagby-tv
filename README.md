@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ar" dir="rtl">
 <head>
-<!-- 🔐 كود تحقق ملكية جوجل -->
+
 <meta name="google-site-verification" content="wYh4YYkcKSYVS8UOa2cJ2LoiFKBQwlRPLj1sWoRuxCk" />
 
 <meta charset="utf-8"/>
